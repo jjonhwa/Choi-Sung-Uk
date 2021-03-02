@@ -1,0 +1,3 @@
+git remote add origin https://github.com/leesw1347/student-first.git
+git branch -M main
+git push -u origin main
